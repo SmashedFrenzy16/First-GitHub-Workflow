@@ -1,2 +1,3 @@
-# First-GitHub-Workflow
-This is my first attempts at making a GitHub workflow.
+# First GitHub Workflow
+
+This is my first attempt at making a GitHub workflow.
